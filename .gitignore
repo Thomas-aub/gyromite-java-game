@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+
+# Package Files 
+*.jar
+!gradle-wrapper.jar
+!maven-wrapper.jar
+
+# Build directories
+target/
+build/
+bin/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Configuration with sensitive data
+*.env
+local.yml
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+libs/
